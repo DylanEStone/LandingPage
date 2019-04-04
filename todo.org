@@ -1,0 +1,3 @@
+* TODO Impliment Fixed Navbar for page navigation
+* TODO Add links to Experience section
+* TODO Make second set of tiles White background with black text
